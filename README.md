@@ -21,7 +21,7 @@ My research interests include community ecology, ecophysiology, and the effects 
 
 ## 2024-ongoing • Post doc project
 
-Place: Lund University (Sweden)
+Institution: Lund University (Sweden)
 
 Mentoring: Tobias Uller
 
@@ -29,9 +29,9 @@ My postdoc includes two main projects:
 1)  Explore the resilience and adaptation of small island populations of the Mediterranean wall lizards
 2)  Study the evolution of thermal traits in reptiles
 
-## 2021-2024 • PhD thesis project
+## 2021-2024 • PhD project
 
-Place: Research Institute on Insect Biology (IRBI) - Tours University (France)
+Institution: Research Institute on Insect Biology (IRBI) - Tours University (France)
 
 Supervision: Sylvain Pincebourde, Olivier Chabrerie and Vincent Foray
 
