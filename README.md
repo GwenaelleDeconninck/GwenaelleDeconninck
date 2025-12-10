@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a post-doctoral fellow at Lund University (Sweden) in Tobias Uller group (see https://feiner-uller-group.se/ for more info).
+I am currently a post-doctoral fellow at Lund University (Sweden) in Tobias Uller group.
 
-My research interests include community ecology, ecophysiology, and the effects of environmental change on populations and ecosystems. I am particularly interested in topics related to conservation and invasion biology. 
+See https://feiner-uller-group.se/ for more info.
+
+My research interests include community ecology, ecophysiology, and the effects of environmental change on populations and ecosystems. 
+
+I am particularly interested in topics related to conservation and invasion biology. 
 
 ## 2024-ongoing • Post doc project
 
